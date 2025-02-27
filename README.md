@@ -1,5 +1,4 @@
-# Vue3-10Projects
-10 proyectos básicos con Vue 3.
+# 10 proyectos básicos con Vue 3.
 
 - Accordions
   
